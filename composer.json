@@ -1,16 +1,16 @@
 {
-    "name": "koala/helloworld",
+    "name": "zhenxun/helloworld",
     "description": "My First Package",
     "authors": [
         {
-            "name": "Koala",
+            "name": "zhenxun",
             "email": "zhenxun9119@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Oomusou\\HelloWorld\\": "src/"
+            "Zhenxun\\HelloWorld\\": "src/"
         }
     }
 }

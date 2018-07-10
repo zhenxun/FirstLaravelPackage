@@ -12,4 +12,4 @@
 */
 
 
-Route::get('helloworld', 'Koala\HelloWorld\HelloWorldController@index');
+Route::get('helloworld', 'Zhenxun\HelloWorld\HelloWorldController@index');

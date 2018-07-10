@@ -1,6 +1,6 @@
 <?php
 
-namespace Koala\HelloWorld;
+namespace Zhenxun\HelloWorld;
 
 use Illuminate\Support\ServiceProvider;
 
